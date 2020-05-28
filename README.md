@@ -8,7 +8,7 @@ This notebook includes classification of poetry ages and authors with both RNNs 
 ## Models and Data Used
 
 -   Data: Poetry from various poets such as William Shakespeare, different genres and different ages.
--   Classification Methods: Decision Trees and RNNs
+-   Classification Methods: Decision Trees (sklearn) and RNNs (tf.keras)
 
 ![Decision Trees vs NN](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05df8cc2-4413-4a7c-93c7-dbf7991b18a7/ddxyf2e-20784a4b-c60d-45c6-8fe1-4a281665d670.png/v1/fill/w_1280,h_487,q_80,strp/vs_by_markdownimgmn_ddxyf2e-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODciLCJwYXRoIjoiXC9mXC8wNWRmOGNjMi00NDEzLTRhN2MtOTNjNy1kYmY3OTkxYjE4YTdcL2RkeHlmMmUtMjA3ODRhNGItYzYwZC00NWM2LThmZTEtNGEyODE2NjVkNjcwLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.3K_JTqac7uTpP6dZCKybJxUrQitNVPk3x9p-Zqeyz_Y)
 
@@ -26,8 +26,10 @@ This notebook includes classification of poetry ages and authors with both RNNs 
     matplotlib
     scikit-learn
     pandas
+    tensorflow
     numpy
     wordcloud
+    ps: All the libraries can be downloaded by pip install -r requirements.txt
 
 
 ## Author
