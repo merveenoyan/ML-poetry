@@ -1,8 +1,8 @@
 ﻿
 
 # Poetry Classification Notebook
-![Poetry Classification Header](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05df8cc2-4413-4a7c-93c7-dbf7991b18a7/ddxz5h4-a844ba43-c2fe-4cf5-a54b-7b0b106a0edc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMDVkZjhjYzItNDQxMy00YTdjLTkzYzctZGJmNzk5MWIxOGE3XC9kZHh6NWg0LWE4NDRiYTQzLWMyZmUtNGNmNS1hNTRiLTdiMGIxMDZhMGVkYy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.-VnjZYfWlvW4BkECBqug2QCGpK7hwvPccE8GESLzxtU))
-This notebook includes classification of poetry ages and authors with both RNNs and decision trees (because the number of data is too low).
+![Poetry Classification Header](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05df8cc2-4413-4a7c-93c7-dbf7991b18a7/ddxz5h4-a844ba43-c2fe-4cf5-a54b-7b0b106a0edc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMDVkZjhjYzItNDQxMy00YTdjLTkzYzctZGJmNzk5MWIxOGE3XC9kZHh6NWg0LWE4NDRiYTQzLWMyZmUtNGNmNS1hNTRiLTdiMGIxMDZhMGVkYy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.-VnjZYfWlvW4BkECBqug2QCGpK7hwvPccE8GESLzxtU)
+This notebook includes classification of poetry ages and authors with both RNNs and decision trees (because the size of data is too small).
 
 
 ## Models and Data Used
